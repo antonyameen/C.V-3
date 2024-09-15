@@ -1,0 +1,251 @@
+.h-info
+{
+    font-size: 40px;
+    margin-top: 100px;
+    margin-left: 150px;
+    text-transform: capitalize;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p1-info
+{
+    font-size:35px;
+    color: cornflowerblue;
+    margin-left: 150px;
+    margin-top: 2px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+}
+.div-info
+{
+    margin-left: 150px;
+    margin-right: 150px;
+    border-bottom: 3px dotted black;
+}
+.s-info
+{
+    font-size: 25px;
+    font-weight: bold;
+}
+.p2-info
+{
+    font-size: 22px;
+}
+.a-info
+{
+    text-decoration: none;
+    color: black;
+}
+
+.div-summ
+{
+    margin-left: 150px;
+    margin-right: 150px;
+    border-bottom: 3px dotted black;
+}
+.p1-summ
+{
+    font-size:35px;
+    color: cornflowerblue;
+    margin-left: 150px;
+    margin-top: 2px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    margin-left: 0px;
+    margin-bottom: 5px;
+    
+}
+.p2-summ
+{
+    font-size:25px;
+       margin-left: 150px;
+    margin-top: 2px;
+        margin-left: 0px;
+}
+.div-edu
+{
+    margin-left: 150px;
+    margin-right: 150px;
+    border-bottom: 3px dotted black;
+}
+.p1-edu
+{
+    font-size:35px;
+    color: cornflowerblue;
+    margin-left: 150px;
+    margin-top: 2px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    margin-left: 0px;
+    margin-bottom: 5px;
+    
+}
+.p2-edu
+{
+    font-size:25px;
+       margin-left: 150px;
+    margin-top: 2px;
+        margin-left: 0px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.s-edu
+{
+    font-size:20px;  
+    text-decoration: underline;
+}
+.p3-edu
+{
+    text-align: right;
+    font-size:20px; 
+    color: grey;
+    text-shadow: 1px;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.div-ski
+{
+    margin-left: 150px;
+    margin-right: 150px;
+    border-bottom: 3px dotted black;
+}
+.p1-ski
+{
+    font-size:35px;
+    color: cornflowerblue;
+    margin-left: 150px;
+    margin-top: 2px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    margin-left: 0px;
+    margin-bottom: 5px;
+    display: inline-block;
+    
+}
+
+
+.s1-ski
+{
+    margin-right: 150px;
+    display: inline-block;
+    font-size: 25px;
+}
+
+.s2-ski
+{
+    
+    display: inline-block;
+    font-size: 25px;
+    
+}
+.s3-ski
+{
+    margin-right: 253px;
+    display: inline-block;
+    font-size: 25px;
+}
+.s5-ski
+{
+    margin-right: 261px;
+    display: inline-block;
+    font-size: 25px;
+}
+.s7-ski
+{
+    margin-right: 260px;
+    display: inline-block;
+    font-size: 25px;
+}
+.s9-ski
+{
+    margin-right: 202px;
+    display: inline-block;
+    font-size: 25px;
+}
+.s33-ski
+{
+    margin-right: 230px;
+    display: inline-block;
+    font-size: 25px;
+}
+.s55-ski
+{
+    margin-right: 198px;
+    display: inline-block;
+    font-size: 25px;
+}
+.div-add
+{
+    margin-left: 150px;
+    margin-right: 150px;
+    border-bottom: 3px dotted black;
+}
+.p1-add
+{
+    font-size:35px;
+    color: cornflowerblue;
+    margin-left: 150px;
+    margin-top: 2px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    margin-left: 0px;
+    margin-bottom: 5px;
+    display: inline-block;
+    
+}
+.p2-add
+{
+    font-size: 25px;
+   
+}
+.p3-add
+{
+    text-align: right;
+    font-size:20px; 
+    color: grey;
+    text-shadow: 1px;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p4-add
+{
+    font-size: 25px;
+    color: rgba(0, 0, 0, 0.774);
+}
+.div-pro
+{
+    margin-left: 150px;
+    margin-right: 150px;
+    border-bottom: 3px dotted black;
+}
+.p1-pro
+{
+    font-size:35px;
+    color: cornflowerblue;
+    margin-left: 150px;
+    margin-top: 2px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    margin-left: 0px;
+    margin-bottom: 5px;
+    display: inline-block;
+    
+}
+.p2-pro
+{
+    font-size: 25px;
+    font-weight:bolder;  
+}
+
+.p3-pro
+{
+    font-size: 25px;
+  
+}
+.p4-pro
+{
+    font-size: 25px;   
+}
+.a-pro
+{
+    color: blue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
